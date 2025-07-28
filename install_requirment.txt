@@ -1,0 +1,7 @@
+open PowerShell in the same folder
+
+# Install streamlit
+pip install streamlit
+
+# Install openpyxl
+pip install openpyxl
