@@ -4,3 +4,4 @@ torch
 nltk
 pandas
 openpyxl
+wordcloud
