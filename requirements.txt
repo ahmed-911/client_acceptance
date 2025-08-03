@@ -1,4 +1,9 @@
 streamlit
+<<<<<<< HEAD
 transformers
 torch
 nltk
+=======
+pandas
+openpyxl
+>>>>>>> 79644735c5f7db81358819d04709f09d4b631074
